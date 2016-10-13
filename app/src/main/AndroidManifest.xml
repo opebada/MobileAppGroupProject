@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TylersActivity"></activity>
+        <activity android:name=".TylersActivity" />
+        <activity android:name=".BadaActivity"></activity>
     </application>
 
 </manifest>
